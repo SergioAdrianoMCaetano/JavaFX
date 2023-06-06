@@ -1,0 +1,37 @@
+.conteudo{
+	-fx-background-color: #666666;
+}
+
+.titulo{
+	-fx-text-fill: #1d9ade;
+	-fx-text-blond: 4px;
+	-fx-font-size: 38px;
+	
+}
+
+
+.numero{
+	-fx-text-fill: #f0e40b;
+	-fx-text-blond: 4px;
+	-fx-font-size: 29px;
+}
+
+.botoes {
+	-fx-background-color: #fff;
+	-fx-text-fill: #48b2ee;
+	-fx-font-size: 28px;
+	-fx-min-width: 60px;
+	-fx-min-height: 60px;
+	-fx-background-radius: 30px;
+	
+}
+
+.verde{
+	-fx-text-fill: #4bdb82;
+	
+}
+
+.vermelha{
+	-fx-text-fill: #ee4139;
+	
+}
